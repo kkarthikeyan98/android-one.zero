@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android app 1.0</string>
+    <string name="kotlin_name">Hello Kotlin</string>
+</resources>
